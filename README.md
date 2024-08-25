@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Angular,SpringBoot**
 
-- 📫 How to reach me **logtari.yassine@gmail.com**
+- 📫 How to reach me **www.linkedin.com/in/yassine-logtari**
 
 - ⚡ Fun fact **My code has better jokes than my commit messages**
 
